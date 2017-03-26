@@ -11,7 +11,7 @@ class Rid < Formula
     bin.install 'rid'
   end
 
-  test do
-    system "#{bin}/rid", '-v'
-  end
+  # test do
+  #   system "#{bin}/rid", '-v'
+  # end
 end
