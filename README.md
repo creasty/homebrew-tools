@@ -1,6 +1,8 @@
 homebrew-tools
 ==============
 
+[![Build Status](https://travis-ci.org/creasty/homebrew-tools.svg?branch=master)](https://travis-ci.org/creasty/homebrew-tools)
+
 [@creasty](https://github.com/creasty)'s toolbox for Homebrew
 
 
