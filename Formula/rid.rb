@@ -5,7 +5,7 @@ class Rid < Formula
   homepage 'https://github.com/creasty/rid'
   url "https://github.com/creasty/rid/releases/download/v#{VERSION}/rid-darwin-amd64.tar.gz"
   version VERSION
-  sha256 '8841db5a26f627c424a42171f47c8094083519f9b679e065007854d1f574ae1f'
+  sha256 '877cba877da68e6622b472cded043735ae27b85ebef606f4a3f1401f3fd39f38'
 
   def install
     bin.install 'rid'
