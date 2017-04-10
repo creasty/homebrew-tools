@@ -1,7 +1,7 @@
 class Rid < Formula
-  VERSION = '0.0.1'.freeze
+  VERSION = '0.1.0'.freeze
 
-  desc %q{(run-in-docker) Run commands in container as if were native}
+  desc %q{Run commands in container as if were native}
   homepage 'https://github.com/creasty/rid'
   url "https://github.com/creasty/rid/releases/download/v#{VERSION}/rid-darwin-amd64.tar.gz"
   version VERSION
