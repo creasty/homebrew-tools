@@ -20,4 +20,4 @@ Available tools
 | Name | Description | Version |
 |:---|:---|:---|
 | [rid](https://github.com/creasty/rid) | Run commands in container as if were native | [v0.1.0](https://github.com/creasty/rid/releases/tag/v0.1.0) |
-| [keyboard](https://github.com/creasty/Keyboard) | Master of keyboard is master of automation | [v0.1.1](https://github.com/creasty/Keyboard/releases/tag/v0.1.1) |
+| [keyboard](https://github.com/creasty/Keyboard) | Master of keyboard is master of automation | [v0.1.2](https://github.com/creasty/Keyboard/releases/tag/v0.1.2) |
