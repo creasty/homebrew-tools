@@ -20,7 +20,7 @@ Available formula
 | Name | Description | Version |
 |:---|:---|:---|
 | [rid](https://github.com/creasty/rid) | Run commands in container as if were native | [v0.1.0](https://github.com/creasty/rid/releases/tag/v0.1.0) |
-| [aws-sns-push](https://github.com/creasty/aws-sns-push) | Send SNS push notifications painlessly | [v0.0.1](https://github.com/creasty/aws-sns-push/releases/tag/v0.0.1) |
+| [aws-sns-push](https://github.com/creasty/aws-sns-push) | Send SNS push notifications painlessly | [v0.1.0](https://github.com/creasty/aws-sns-push/releases/tag/v0.1.0) |
 
 
 Available cask
@@ -29,4 +29,3 @@ Available cask
 | Name | Description | Version |
 |:---|:---|:---|
 | [keyboard](https://github.com/creasty/Keyboard) | Master of keyboard is master of automation | [v0.1.2](https://github.com/creasty/Keyboard/releases/tag/v0.1.2) |
-
