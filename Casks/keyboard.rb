@@ -1,10 +1,10 @@
 cask 'keyboard' do
-  version '0.1.2'
-  sha256 '23736ffe6b4dbf08e95d592ba04c15474137bf5eb4761df4f145bc21548ca872'
+  version '1.1.0'
+  sha256 '3c6e0941660ca658d88a79ee2a0be8d55975d1c3b98947508cc013d4ee49c040'
 
-  url "https://github.com/creasty/Keyboard/releases/download/v#{version}/keyboard-sierra.zip"
+  url "https://github.com/creasty/Keyboard/releases/download/v#{version}/keyboard.zip"
   name 'Keyboard'
   homepage 'https://github.com/creasty/Keyboard'
 
-  app 'keyboard.app'
+  app 'Keyboard.app'
 end
