@@ -1,6 +1,6 @@
 cask 'keyboard' do
-  version '1.2.0'
-  sha256 '40dbb4ae652b2d19393020d5e7df1c0b2c766c4a60f65beb5d438ae9ffa8de8a'
+  version '1.2.1'
+  sha256 '7fb99cec47e392c66b5f5efebca5025718ccdeb8895d481ef494c8f5d1c9e3c0'
 
   url "https://github.com/creasty/Keyboard/releases/download/v#{version}/keyboard.zip"
   appcast 'https://github.com/creasty/Keyboard/releases.atom'

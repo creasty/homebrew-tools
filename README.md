@@ -28,4 +28,4 @@ Available cask
 
 | Name | Description | Version |
 |:---|:---|:---|
-| [keyboard](https://github.com/creasty/Keyboard) | Master of keyboard is master of automation | [v1.2.0](https://github.com/creasty/Keyboard/releases/tag/v1.2.0) |
+| [keyboard](https://github.com/creasty/Keyboard) | Master of keyboard is master of automation | [v1.2.1](https://github.com/creasty/Keyboard/releases/tag/v1.2.1) |
