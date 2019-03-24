@@ -17,8 +17,8 @@ $ brew tap creasty/tools
 Available formula
 -----------------
 
-| Name | Description | Version |
-|:---|:---|:---|
+| Name | Description |
+|:---|:---|
 | [rid](https://github.com/creasty/rid) | Run commands in container as if were native |
 | [aws-sns-push](https://github.com/creasty/aws-sns-push) | Send SNS push notifications painlessly |
 
@@ -26,6 +26,6 @@ Available formula
 Available cask
 -----------------
 
-| Name | Description | Version |
-|:---|:---|:---|
+| Name | Description |
+|:---|:---|
 | [keyboard](https://github.com/creasty/Keyboard) | Master of keyboard is master of automation |
