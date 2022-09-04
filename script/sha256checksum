@@ -3,4 +3,4 @@
 set -eu
 set -o pipefail
 
-curl -LS "$1" | openssl dgst -sha256
+curl -LS --fail "$1" | openssl dgst -sha256
